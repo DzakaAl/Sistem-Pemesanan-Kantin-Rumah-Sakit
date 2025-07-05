@@ -1,0 +1,56 @@
+Magelangan Mie Rendang
+12000
+75
+0.02
+Magelangan Mie Aceh
+12000
+75
+0.02
+Magelangan Original
+10000
+84
+0
+Nasi Goreng Ayam
+13000
+90
+0
+Nasi Goreng Sosis
+13000
+86
+0
+Nasi Goreng Ati Ampela
+13000
+75
+0.03
+Nasi Ayam Bali
+13000
+65
+0.03
+Nasi Omelet
+12000
+90
+0.02
+Ayam Geprek
+13000
+88
+0.02
+Nasi Telur
+9000
+90
+0
+Nasi Sarden
+10000
+90
+0.02
+Nasi Orak-Arik
+10000
+87
+0.02
+Mie Goreng
+8000
+90
+0
+Mie Rebus
+8000
+90
+0

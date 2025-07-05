@@ -1,0 +1,40 @@
+Es Teh Manis
+6000
+50
+0
+Es Jeruk
+7000
+49
+0
+Es Teh Tawar
+5000
+55
+0
+Es Kelapa Muda
+15000
+35
+0.03
+Teh Pucuk
+3000
+50
+0.01
+Es Lemon Tea
+8000
+48
+0.01
+Macam Macam Kopi
+6000
+46
+0.02
+Aneka Jus
+8000
+48
+0.02
+Air Putih
+2000
+100
+0
+Air Es
+3000
+100
+0

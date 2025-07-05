@@ -1,0 +1,56 @@
+Beng-beng
+5000
+47
+0
+Permen
+1000
+100
+0
+Cokelat
+5000
+70
+0.05
+Roti
+10000
+36
+0.05
+Qtela
+12000
+65
+0.05
+Taro
+8000
+30
+0.05
+Lays
+8000
+50
+0.05
+Mie Rebus
+3000
+80
+0
+oreo
+10000
+65
+0.05
+Chiki Balls
+12000
+70
+0.05
+Mie goreng
+3000
+90
+0
+Maxcorn
+12000
+35
+0.05
+Es krim float 
+10000
+80
+0.01
+Es krim cone
+5000
+85
+0.01

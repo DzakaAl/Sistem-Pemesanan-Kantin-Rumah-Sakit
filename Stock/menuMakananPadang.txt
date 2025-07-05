@@ -1,0 +1,44 @@
+Ayam Pop
+23000
+34
+0.05
+Dendeng Batokok
+30000
+42
+0.05
+Gulai
+25000
+65
+0
+Ikan Asam Pedeh
+28000
+49
+0.05
+Ikan Bakar
+20000
+69
+0.06
+Kerupuk Kulit
+12000
+70
+0
+Kikil
+20000
+68
+0.05
+Nasi
+10000
+58
+0
+Rendang
+20000
+68
+0.04
+Talua Barendo
+15000
+80
+0
+Udang Tepung
+18000
+58
+0.04

@@ -1,0 +1,36 @@
+Nasi Telur + 1 macam sayur
+20000
+86
+0
+Nasi Ayam + 1 macam sayur
+25000
+79
+0.05
+Nasi Ikan + 1 macam sayur
+30000
+68
+0.05
+Nasi Daging + 1 macam sayur
+35000
+59
+0.05
+Nasi Tongkol Sambal Matah
+30000
+55
+0.05
+Nasi Cumi Sambal Bongkot
+40000
+65
+0.05
+Nasi Putih
+8000
+100
+0
+Nasi Merah
+9000
+90
+0
+Aneka Gorengan
+5000
+100
+0

@@ -1,0 +1,80 @@
+Ampela Goreng
+6000
+60
+0
+Ayam Goreng/Bakar
+15000
+84
+0.03
+Bebek Goreng/Bakar
+20000
+60
+0.04
+Burung Dara Goreng/Bakar
+20000
+50
+0.04
+Burung Puyuh Goreng/Bakar
+20000
+60
+0.04
+Kaki Ayam
+2000
+65
+0
+Kol Goreng
+3000
+80
+0
+Lele Goreng/Bakar
+12000
+90
+0.03
+Nasi
+3000
+100
+0
+Nasi Uduk
+5000
+99
+0
+Pala Ayam
+5000
+75
+0
+Tahu Goreng/Bakar
+3000
+90
+0.01
+Tempe Goreng/Bakar
+3000
+80
+0.01
+Ikan Nila Goreng/Bakar
+15000
+30
+0.01
+Udang Tepung
+20000
+35
+0.01
+Cumi-cumi Tepung
+20000
+40
+0.04
+Ikan Gurame Goreng/Bakar
+35000
+45
+0.06
+Telur dadar
+5000
+35
+0.02
+Ca/Tumis Kangkung
+8000
+38
+0.02
+Ca/Tumis Tauge
+8000
+48
+0.02

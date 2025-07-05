@@ -1,0 +1,64 @@
+Es Teh 
+3000
+90
+0
+Es Jeruk
+4000
+89
+0
+Es Good Day
+5000
+84
+0.02
+Teh Hangat
+3000
+90
+0
+Jeruk Hangat
+4000
+90
+0
+Good Day Panas
+5000
+84
+0.02
+Nutrisari
+3000
+90
+0.01
+Milo
+4000
+80
+0.01
+Teh Tarik
+4000
+75
+0.02
+Extra Joss
+3000
+75
+0.02
+Coffe ABC
+3000
+76
+0.01
+Soda Gembira
+10000
+65
+0.02
+White Coffe
+3000
+60
+0.02
+Kapal Api
+3000
+80
+0.02
+Air Putih
+2000
+100
+0
+Air Es
+3000
+100
+0

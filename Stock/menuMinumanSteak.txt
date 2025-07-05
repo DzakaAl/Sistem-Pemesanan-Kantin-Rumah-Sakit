@@ -1,0 +1,48 @@
+Green mint breeze
+0
+80
+0.02
+Swimming strawberries
+30000
+68
+0.02
+Lemon squash
+20000
+85
+0
+Lime squash
+25000
+75
+0.05
+Iced mint & milk
+25000
+65
+0.05
+Iced chocolate milk
+25000
+70
+0.05
+Coca cola
+14000
+100
+0
+Sprite
+15000
+100
+0
+Fanta
+15000
+100
+0
+Tropical Squash
+20000
+50
+0.05
+Cappcuccino Jelly
+30000
+58
+0.05
+Melon Lemonade
+26000
+78
+0

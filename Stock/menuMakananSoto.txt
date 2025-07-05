@@ -1,0 +1,84 @@
+Nasi
+10000
+98
+0
+Lontong
+12000
+80
+0
+Soto Kwali
+12000
+69
+0.03
+Soto Kadipiro
+15000
+73
+0
+Soto Lenthok
+15000
+90
+0
+Soto Bathok
+18000
+85
+0
+Soto Lamongan
+20000
+55
+0.05
+Soto Pacitan
+20000
+40
+0.05
+Soto Surabaya
+20000
+80
+0.05
+Soto Boyolali
+21000
+30
+0.05
+Soto Madura
+23000
+50
+0.05
+Soto Semarang
+23000
+63
+0.05
+Soto Banjar
+25000
+20
+0.05
+Soto Betawi
+25000
+38
+0.05
+Soto Kudus
+25000
+35
+0.05
+Soto Mie Bogor
+25000
+50
+0.05
+Soto Padang
+25000
+45
+0.05
+Soto Aceh
+28000
+36
+0.05
+Soto Lampung
+30000
+20
+0.05
+Soto Tauto/Tauco
+30000
+24
+0.05
+Soto Makassar
+35000
+65
+0.05

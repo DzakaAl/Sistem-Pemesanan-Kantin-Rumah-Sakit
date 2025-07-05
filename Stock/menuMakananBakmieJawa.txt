@@ -1,0 +1,44 @@
+Mie Godog
+20000
+69
+0
+Nasi Godog
+20000
+68
+0.02
+Mie Godog Spesial
+25000
+67
+0.05
+Mie Goreng
+20000
+68
+0
+Mie Goreng Spesial
+25000
+77
+0.05
+Nasi Goreng Ayam
+25000
+85
+0
+Nasi Goreng Spesial
+30000
+88
+0.05
+Nasi Goreng Kambing
+35000
+75
+0.05
+Bihun Goreng
+15000
+65
+0.05
+Bihun Godog
+15000
+55
+0.02
+Nasi Putih
+8000
+100
+0

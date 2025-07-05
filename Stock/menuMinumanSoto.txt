@@ -1,0 +1,44 @@
+Es Teh Manis
+6000
+49
+0.02
+Es Jeruk
+7000
+60
+0.02
+Es Teh Tawar
+5000
+55
+0.02
+Es Kelapa Muda
+15000
+20
+0.02
+Es Teler
+15000
+24
+0.03
+Es Lemon Tea
+10000
+45
+0.02
+Kopi Panas
+10000
+40
+0.02
+Aneka Jus
+12000
+55
+0.02
+Air Putih
+5000
+100
+0
+Air ES
+4000
+100
+0
+Es Campur
+18000
+30
+0.03

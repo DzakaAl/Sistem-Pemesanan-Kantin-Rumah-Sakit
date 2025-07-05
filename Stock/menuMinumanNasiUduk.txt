@@ -1,0 +1,44 @@
+Air Mineral
+4000
+100
+0
+Air Es
+3000
+100
+0
+Pandan Tea Hot/Ice
+7000
+25
+0.02
+Kopi Tubruk
+10000
+30
+0.02
+Teh Tawar Hangat
+5000
+50
+0
+Es Teh Tawar
+6000
+55
+0
+Es Teh Manis
+7000
+55
+0.01
+Teh Manis Hangat
+7000
+50
+0.01
+Lemon Tea
+10000
+45
+0.02
+Es/Hangat Jeruk
+10000
+45
+0
+Es/Hangat Jeruk Nipis
+10000
+38
+0.01

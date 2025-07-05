@@ -1,0 +1,44 @@
+Jumbo Bakso
+17000
+65
+0.05
+Jumbo Biasa
+15000
+74
+0
+Jumbo Komplit
+18000
+79
+0.05
+Jumbo Pangsit
+16000
+75
+0.05
+Kwetiaw Goreng
+13000
+80
+0
+Kwetiaw Kuah
+10000
+78
+0.02
+Mie Ayam Bakso
+11000
+70
+0.03
+Mie Ayam Biasa
+9000
+80
+0
+Mie Ayam Komplit
+12000
+75
+0.03
+Mie Ayam Pangsit
+10000
+65
+0.03
+Mie Goreng
+11000
+90
+0

@@ -1,0 +1,32 @@
+Es Teh Manis
+5000
+100
+0.02
+Es Jeruk
+6000
+90
+0.02
+Es Teh Tawar
+5000
+100
+0.02
+Teh Manis Hangat
+4000
+100
+0
+Teh Tawar Hangat
+4000
+80
+0
+Jeruk Hangat
+5000
+90
+0.02
+Air Putih
+2000
+100
+0
+Air Es
+3000
+100
+0

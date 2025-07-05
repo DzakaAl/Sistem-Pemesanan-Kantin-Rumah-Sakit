@@ -1,0 +1,48 @@
+Chicken Steak Panggang
+30000
+59
+0
+Mix Grill
+39000
+29
+0.06
+Rib eye import
+84000
+80
+0.1
+Sirloin Panggang
+27000
+40
+0.05
+Spaghetti Chicken Crispy
+32000
+59
+0.06
+Spaghetti Chicken Katsu
+32000
+69
+0.06
+Spaghetti bolognaise
+20000
+45
+0
+Tamago Sosis
+20000
+58
+0
+Wagyu Beef A5 Marukawa
+199000
+85
+0.15
+Wagyu Beef A5 Shabu
+299000
+99
+0.2
+Wagyu Beef A5 picanha
+664000
+90
+0.3
+Wagyu Meltique 200gr
+94000
+100
+0.1

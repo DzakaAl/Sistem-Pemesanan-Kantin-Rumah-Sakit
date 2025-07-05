@@ -1,0 +1,68 @@
+Air mineral
+5000
+100
+0
+Susu kemasan
+5000
+85
+0.01
+Fruit Tea
+7500
+63
+0.01
+Jus buah kemasan
+7000
+88
+0.01
+Teh Kotak
+10000
+74
+0
+Teh celup
+7000
+64
+0
+Teh pucuk
+5000
+86
+0
+Freshtea
+6000
+65
+0
+Coca Cola
+5000
+70
+0.02
+Sprite
+5000
+75
+0.02
+Fanta
+5000
+70
+0.02
+Pocari Sweet
+8000
+80
+0.01
+Minute Maid Pulpy Orange
+5500
+65
+0.01
+Nescafe
+7.5
+95
+0.02
+Bintang Zero
+10000
+85
+0.03
+Orange Water
+8000
+74
+0.01
+Kopiko
+8000
+75
+0
